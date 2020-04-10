@@ -1,0 +1,15 @@
+Purchase Contract
+
+PurchaseContractID(PK)
+Purchase Contact Date
+Seller ID(FK)
+Prepared By
+
+Purchase Contract Detail
+
+PurchaseContractDetailID(PK)
+PurchaseContractID(FK)
+RawMaterialid (FK)
+Weight
+Price 
+Total Amount

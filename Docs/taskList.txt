@@ -1,0 +1,9 @@
+2020-04-04
+
+Sales Contract Edit
+For all detail screens MDI parent
+Rename update to Edit
+Label on every form with its Entity name
+Test all forms for Add/Edit/Delete
+Purchase Contract replace Raw Material with Product
+Add Approve column, data type bit, default value 0, not null, in Purchase Contract and Sales Contract.
